@@ -1,2 +1,2 @@
 # Cgmm
-CGMM lab code of Medicaps University
+CGMM lab code of Medicaps University Batch 2017
