@@ -1,5 +1,5 @@
 # Cgmm
-CGMM lab code of Medicaps University 
+CGMM lab 
 
 1) star.c --> Write a Program to draw a STAR on the screen using DDA Line Drawing Algorithm.
 2) Bhut.c --> Write a Program to draw a HUT on the screen using Bresenham’s Line Drawing Algorithm.
